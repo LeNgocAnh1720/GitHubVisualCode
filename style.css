@@ -2,6 +2,9 @@ h1{
     color: red;
 }
 
+span{
+    background-color: red;
+}
 h2{
     border: 1px solid red;
 }
