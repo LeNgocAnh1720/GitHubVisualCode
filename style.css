@@ -5,3 +5,10 @@ h1{
 span{
     background-color: red;
 }
+h2{
+    border: 1px solid red;
+}
+
+h3{
+    border: 1px solid red;
+}
